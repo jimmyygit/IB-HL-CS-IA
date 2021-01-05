@@ -1,4 +1,4 @@
-# IB-HL-CS-IA
+# TourneyMaker
 IB Higher Level Computer Science Internal Assessment
 
 Bug Log:\
